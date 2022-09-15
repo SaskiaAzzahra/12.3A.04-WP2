@@ -1,0 +1,5 @@
+NIM	: 12210309
+Nama	: Saskia Azzahra
+Kelas	: 12.3A.04
+Propdi	: Sistem Informasi
+Alamat	: Bekasi
