@@ -3,3 +3,4 @@ Nama	: Saskia Azzahra
 Kelas	: 12.3A.04
 Propdi	: Sistem Informasi
 Alamat	: Bekasi
+No.HP	: 085771979518
